@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GUEZIR-HAMZA
+- 👋 Hi, I’m @GUEZIR HAMZA
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++/C# and Web languages(html/css/js)
 - 💞️ I’m looking to collaborate on small projects at the moment
